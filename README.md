@@ -32,9 +32,6 @@ pip install PySide6 requests appdirs pynput pygetwindow pywin32
 
 ## Main Components
 
-### About Dialog
-A modal dialog that provides information about the application, including its name, description, and links to the developer's GitHub and Discord server for support and updates.
-
 ### Database Manager
 This component manages the storage of macros and hotkeys using SQLite. It includes functionality for creating tables, saving macros and hotkeys, retrieving them, and deleting records. The database manager ensures that all macros and hotkeys are stored persistently and can be easily accessed and modified.
 
