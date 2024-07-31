@@ -157,7 +157,6 @@ class MacroTool(QMainWindow):
         update_action = file_menu.addAction("Check for Updates")
         update_action.triggered.connect(self.check_for_updates)
 
-        help_menu = menu_bar.addMenu("Help")
 
         return menu_bar
 
