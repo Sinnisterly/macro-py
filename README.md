@@ -44,8 +44,6 @@ Converts virtual key codes to human-readable string representations and vice ver
 ### Macro Recorder and Player
 The macro recorder captures the user's actions, including keystrokes and mouse movements, and saves them as macros. The macro player then executes these actions in sequence, optionally targeting a specific application window. It supports both normal and looped playback.
 
-### OTA Updater
-Handles checking for and applying updates to the application. It downloads update packages, extracts them, and replaces the old files with new ones, ensuring the application is always up-to-date.
 
 ## Usage
 
